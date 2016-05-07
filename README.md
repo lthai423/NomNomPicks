@@ -1,18 +1,26 @@
-# NomNomPicks
-Application that will aggregate local dining options for clients.
+# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
-About this Project
-------------------
+[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-The aim of the project is to develop a central codebase that can be used by future developers to quickly modify the front-end, back-end, and to create new web applications as needed. It will provide a central database for storing information necessary for user authentication, web applications, etc. To ensure future developers can easily maintain this project, the popular [**Python**](https://docs.python.org/3/) programming language was chosen.
+## Getting Started
 
-This codebase utilizes the [**Django**](https://docs.djangoproject.com/en/1.9/) webframework, with built-in support for the [**Django Templating Language (DTL)**](https://docs.djangoproject.com/en/1.9/topics/templates/) HTML templating engine. Website data is stored in a [**PostgreSQL**](http://www.postgresql.org/docs/) database. Manipulation of the database is done through the Django's built-in wrapper. Database migrations are done using [**Django Migrations**](https://docs.djangoproject.com/en/1.9/topics/migrations/).
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-For easier styling, we will be using [**Bootstrap**](http://bootstrapdocs.com/v3.0.3/docs/css/), the most popular responsive, mobile friendly front-end framework available.  To ensure visual cohesion, developers are encouraged to use available templates already created and implemented.  Developers are advised to stick to the coding conventions and practices that are already used to ensure the project is extensible for all future developers.
+## Bugs and Issues
 
-Developers
-----------
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
 
-* Lawrence Thai *lthai423* [lthai423@gmail](mailto:lthai423@gmail.com)
+## Creator
 
-* Ker Moua *kmoua92* [kermoua92@gmail.com](mailto:kermoua92@gmai.com)
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
